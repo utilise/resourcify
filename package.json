@@ -16,9 +16,9 @@
     "mocha-lcov-reporter": "0.0.2"
   },
   "dependencies": {
-    "body": "git://github.com/utilise/body",
-    "first": "git://github.com/utilise/first",
-    "is": "git://github.com/utilise/is",
-    "values": "git://github.com/utilise/values"
+    "body": "git+https://github.com/utilise/body.git",
+    "first": "git+https://github.com/utilise/first.git",
+    "is": "git+https://github.com/utilise/is.git",
+    "values": "git+https://github.com/utilise/values.git"
   }
 }
