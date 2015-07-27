@@ -1,7 +1,7 @@
-var is = require('is')
-  , body = require('body')
-  , first = require('first')
-  , values = require('values')
+var is = require('utilise.is')
+  , body = require('utilise.body')
+  , first = require('utilise.first')
+  , values = require('utilise.values')
 
 module.exports = function resourcify(ripple){
   return function(d) {
